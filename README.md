@@ -1,2 +1,1 @@
-# Python_Projects-on-DataCamp-Project558
-Solutions
+# This is one of the projects on DataCamp/Machine_Learning with the topic "PREDICTING CREDIT CARD APPROVALS"
