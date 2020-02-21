@@ -1,4 +1,5 @@
-This is one of the projects on DataCamp/Machine_Learning. 
+Some of the projects on DataCamp/Machine_Learning:
+
 ======================================================================
 Project33: "Introduction to DataCamp Projects"
 ======================================================================
